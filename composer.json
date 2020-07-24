@@ -1,5 +1,6 @@
 {
     "name": "coffeebreaks/upload",
+    "description": "This library uploads images and files",
     "type": "library",
     "license": "MIT",
     "authors": [
