@@ -5,7 +5,8 @@
     "authors": [
         {
             "name": "Guilherme-fagundes",
-            "email": "guilhermedev94@gmail.com"
+            "email": "guilhermedev94@gmail.com",
+            "role": "Web developer / System analyst"
         }
     ],
     "minimum-stability": "stable",
